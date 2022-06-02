@@ -1,4 +1,4 @@
-### Hi there 👋, this is TheRayMy
+### Hi there 👋, this is LeRaymy
 
 <!--
 **LeRaymy/LeRaymy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
